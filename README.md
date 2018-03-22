@@ -1,2 +1,2 @@
 # visiology_test
-Solution for submission test 
+Solution for admission test 
